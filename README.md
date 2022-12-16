@@ -1,3 +1,5 @@
+#ejercicios-my-sql
+
 Hello there.
 
 This is my mySQL exercises' compilation.
